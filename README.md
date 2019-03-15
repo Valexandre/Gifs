@@ -22,4 +22,6 @@ Pour nous t'étais mort.
 
 ![Gif](https://github.com/Valexandre/Gifs/blob/master/jevousparlepasdeca.gif "MAIS JE NE VOUS PARLE PAS DE CA")
 
-![Video](https://github.com/Valexandre/Gifs/blob/master/OnLAimeNotreZizi.mp4 "On l'aime notre zizi")
+# Bonus
+
+https://github.com/Valexandre/Gifs/blob/master/OnLAimeNotreZizi.mp4
