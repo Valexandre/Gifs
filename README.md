@@ -1,6 +1,13 @@
 # Gifs
 Pour nous t'étais mort.
 
+![Gif](https://github.com/Valexandre/Gifs/blob/master/sourire.gif "Sourires")
+
+![Gif](https://github.com/Valexandre/Gifs/blob/master/mouais.gif "Mouais")
+
+![Gif](https://github.com/Valexandre/Gifs/blob/master/bises.gif "Bises")
+
+![Gif](https://github.com/Valexandre/Gifs/blob/master/flirt.gif "Flirt")
 
 ![Gif](https://github.com/Valexandre/Gifs/blob/master/deschiens-agite.gif "Agités")
 
@@ -9,8 +16,6 @@ Pour nous t'étais mort.
 ![Gif](https://github.com/Valexandre/Gifs/blob/master/deschiens-buzzmusical.gif "J'aurais ta peau berbère")
 
 ![Gif](https://github.com/Valexandre/Gifs/blob/master/deschiens-non%20non.gif "Non non")
-
-![Gif](https://github.com/Valexandre/Gifs/blob/master/deschiens-vieilletata.gif "Vieille tata")
 
 ![Gif](https://github.com/Valexandre/Gifs/blob/master/ondonneca-ilsprennentca.gif "On donne ça")
 
@@ -21,6 +26,8 @@ Pour nous t'étais mort.
 ![Gif](https://github.com/Valexandre/Gifs/blob/master/rire.gif "On était jeunes")
 
 ![Gif](https://github.com/Valexandre/Gifs/blob/master/jevousparlepasdeca.gif "MAIS JE NE VOUS PARLE PAS DE CA")
+
+![Gif](https://github.com/Valexandre/Gifs/blob/master/deschiens-vieilletata.gif "Vieille tata")
 
 # Bonus
 
