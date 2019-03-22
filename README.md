@@ -1,7 +1,7 @@
 # Gifs
 Pour nous t'étais mort.
 
-![Gif](https://github.com/Valexandre/Gifs/blob/master/sourire.gif "Sourires")
+![Gif](https://github.com/Valexandre/Gifs/blob/master/sourires.gif "Sourires")
 
 ![Gif](https://github.com/Valexandre/Gifs/blob/master/mouais.gif "Mouais")
 
