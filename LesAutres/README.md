@@ -10,7 +10,7 @@
 
 ![Gif](https://github.com/Valexandre/Gifs/blob/master/LesAutres/bullshit.gif "bullshit")
 
-![Gif](https://github.com/Valexandre/Gifs/blob/master/LesAutres/cartes militaires.gif "cartes militaires")
+![Gif](https://github.com/Valexandre/Gifs/blob/master/LesAutres/cartes%20militaires.gif "cartes militaires")
 
 ![Gif](https://github.com/Valexandre/Gifs/blob/master/LesAutres/coucicouca.gif "coucicouca")
 
@@ -38,7 +38,7 @@
 
 ![Gif](https://github.com/Valexandre/Gifs/blob/master/LesAutres/ringorun.gif "ringorun")
 
-![Gif](https://github.com/Valexandre/Gifs/blob/master/LesAutres/robindesbois haussement depaules.gif "robindesbois haussement depaules")
+![Gif](https://github.com/Valexandre/Gifs/blob/master/LesAutres/robindesbois haussement depaules.gif "robindesbois%20haussement%20depaules")
 
 ![Gif](https://github.com/Valexandre/Gifs/blob/master/LesAutres/sarcasme.gif "sarcasme")
 
@@ -46,4 +46,4 @@
 
 ![Gif](https://github.com/Valexandre/Gifs/blob/master/LesAutres/tuconfondsunpeutout.gif "tuconfondsunpeutout")
 
-![Gif](https://github.com/Valexandre/Gifs/LesAutres/blob/masteryoumakemesad.gif "youmakemesad")
+![Gif](https://github.com/Valexandre/Gifs/blob/masster/LesAutres/youmakemesad.gif "youmakemesad")
